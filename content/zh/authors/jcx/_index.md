@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 多模态信息融合人工智能应用实验室
+title: 蒋晨曦
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
 # role: Professor of Artificial Intelligence
-
+user_groups: ['MMIF']
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: 东南大学
@@ -75,10 +75,4 @@ highlight_name: true
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
-(Multi-Modal Information Fusion AI Application Lab, MMIF)成立于2021年7月，位于东南大学苏州校区三江院。实验室在人工智能领域主要的研究方向包括：云原生技术、大数据技术、自然语言处理、图像处理。<br>
-
-实验室已承接项目10余项，NLP方向：海量文本信息抽取与处理技术、基于多源信息的目标融合技术、多模态宣传技巧检测技术等；OCR方向：料盘识别定位与文本识别、小票识别系统等；Vision Inspection方向：PCB板缺陷检测&电子元器件自动分拣、基于ST-Yolov5的视觉安全检测系统等；大数据方向：苏州城市管廊巡检机器人大数据监控平台；知识图谱方向：基于电网一次设备知识的知识图谱构建技术等。
-
-实验室已经发表SCI期刊论文3篇、CCF国际会议论文3篇、EI检索论文约20篇；授权和受理发明专利共8项；2020年度获国网上海电力公司科技进步一等奖。
-
-实验室目前拥有二十多位朝气蓬勃的研究生，对科学研究、计算机新技术的探索以及工程实践充满激情。
+我们实验室的研究内容主要包含四个方面：视觉感知增强、视觉嵌入、基于视觉的人机交互与机器学习。视觉感知增强方面，我们主要针对高动态范围场景建模、颜色度量准则与管理、基于深度图像的计算机视觉等方面开展新的研究；视觉嵌入方面，我们研究物体的检测、追踪与识别，图像/视频的语义分割与标注，下一代编码/解码的生成技术；基于视觉的人机交互方面，我们志于研究人体行为与表情识别，视线估计以及机器人模仿学习；机器学习方面，我们致力于搭建知识与数据鸿沟间的桥梁，研究知识融合、自动化特征工程与图表征的新技术。

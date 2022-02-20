@@ -7,18 +7,18 @@ main:
   - name: 主页
     url: '#about'
     weight: 10
-  - name: 帖子
+  - name: 导师简介
     url: '#posts'
     weight: 20
-  - name: 项目
-    url: '#projects'
-    weight: 30
-  - name: 话题
+  # - name: 项目
+  #   url: '#projects'
+  #   weight: 30
+  - name: 学术活动
     url: '#talks'
     weight: 40
-  - name: 出版物
-    url: '#featured'
-    weight: 50
+  # - name: 出版物
+  #   url: '#featured'
+  #   weight: 50
   - name: 联系我们
     url: '#contact'
     weight: 60

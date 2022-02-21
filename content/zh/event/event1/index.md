@@ -1,5 +1,5 @@
 ---
-title: 余艾冰院士莅临实验室
+title: 张道坤博士到访实验室
 
 event: Wowchemy Conference
 event_url: https://example.org
@@ -12,13 +12,13 @@ address:
   postcode: '94305'
   country: United States
 
-summary: 余艾冰院士莅临实验室进行学术指导。
+summary: 张道坤博士到访实验室介绍机器学习经典神经网络模型，并举例进行讲解，为学生解答疑惑。
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2021-08-10T10:00:00Z"
-date_end: "2021-08-10T17:00:00Z"
+date: "2021-12-02T13:00:00Z"
+date_end: "2021-12-02T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).

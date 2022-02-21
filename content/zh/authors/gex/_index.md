@@ -1,6 +1,6 @@
 ---
 # Display name
-title: 傅尔轩
+title: 郭尔轩
 
 # Is this the primary user of the site?
 superuser: true

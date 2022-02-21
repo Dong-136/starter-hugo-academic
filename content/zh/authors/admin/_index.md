@@ -77,7 +77,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristiq
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
 (Multi-Modal Information Fusion AI Application Lab, MMIF)成立于2021年7月，位于东南大学苏州校区三江院。实验室在人工智能领域主要的研究方向包括：云原生技术、大数据技术、自然语言处理、图像处理。<br>
 
-实验室已承接项目10余项，NLP方向：海量文本信息抽取与处理技术、基于多源信息的目标融合技术、多模态宣传技巧检测技术等；OCR方向：料盘识别定位与文本识别、小票识别系统等；Vision Inspection方向：PCB板缺陷检测&电子元器件自动分拣、基于ST-Yolov5的视觉安全检测系统等；大数据方向：苏州城市管廊巡检机器人大数据监控平台；知识图谱方向：基于电网一次设备知识的知识图谱构建技术等。
+实验室已承接项目10余项，其中NLP方向：海量文本信息抽取与处理技术、基于多源信息的目标融合技术、多模态宣传技巧检测技术等；OCR方向：料盘识别定位与文本识别、小票识别系统等；Vision Inspection方向：PCB板缺陷检测&电子元器件自动分拣、基于ST-Yolov5的视觉安全检测系统等；大数据方向：苏州城市管廊巡检机器人大数据监控平台；知识图谱方向：基于电网一次设备知识的知识图谱构建技术等。
 
 实验室已经发表SCI期刊论文3篇、CCF国际会议论文3篇、EI检索论文约20篇；授权和受理发明专利共8项；2020年度获国网上海电力公司科技进步一等奖。
 

@@ -1,5 +1,5 @@
 ---
-title: "An example conference paper"
+title: "[1]Zhang D，Hu Z，Li S，Wu H，Zhu Q，Zhou G. More than Text: Multi-modal Chinese Word Segmentation[C]. In Proceedings of ACL. 2021: 550-557. (CCF A类会议)"
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here 

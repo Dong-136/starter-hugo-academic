@@ -7,9 +7,9 @@ widget: portfolio
 headless: true
 
 # Order that this section appears on the page.
-weight: 65
-active: false
-title: Projects
+weight: 80
+active: true
+title: 项目研发
 subtitle: ''
 
 content:
@@ -27,10 +27,14 @@ content:
   filter_button:
   - name: All
     tag: '*'
-  - name: Deep Learning
-    tag: Deep Learning
-  - name: Other
-    tag: Demo
+  - name: NLP
+    tag: NLP
+  - name: OCR
+    tag: OCR
+  - name: Big Data
+    tag: Big Data
+  - name: Vision Inspection
+    tag: Vision Inspection
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.

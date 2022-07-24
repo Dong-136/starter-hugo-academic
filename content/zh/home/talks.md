@@ -9,7 +9,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 70
 
-title: '学术活动'
+title: '实验室活动'
 subtitle:
 
 content:

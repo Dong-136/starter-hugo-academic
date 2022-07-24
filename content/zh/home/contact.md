@@ -12,7 +12,7 @@ active: false
 # Order that this section appears on the page.
 weight: 130
 
-title: Contact
+title: 联系我们
 subtitle:
 
 content:

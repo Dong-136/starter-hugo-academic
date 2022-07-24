@@ -10,17 +10,17 @@ main:
   - name: 导师简介
     url: '#posts'
     weight: 20
-  # - name: 项目
-  #   url: '#projects'
-  #   weight: 30
-  - name: 学术活动
+  - name: 实验室活动
     url: '#talks'
+    weight: 30
+  - name: 项目研发
+    url: '#projects'
     weight: 40
-  # - name: 出版物
-  #   url: '#featured'
-  #   weight: 50
-  - name: 联系我们
-    url: '#contact'
+  - name: 科研成果
+    url: '#paper'
+    weight: 50
+  - name: 基础设施
+    url: '#lab_infrastructure'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.

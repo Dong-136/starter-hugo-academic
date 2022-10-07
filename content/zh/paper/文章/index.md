@@ -34,7 +34,14 @@ summary: '[1]Zhang D，Hu Z，Li S，Wu H，Zhu Q，Zhou G. More than Text: Mult
 <br>
 [16]Wu H，Zhou L. et al. 2015. A Novel Feature-based Method for Opinion Mining in Chinese Product Reviews[C]. In Proceedings of SEIS-2015，pages 154-164. （EI）
 <br>
-[17]吴含前，朱云杰，谢珏. 2015. 基于逻辑回归的中文在线评论有效性检测模型[J]. 东南大学学报(自然科学版)，2015，45(3):433-437. （EI）'
+[17]吴含前，朱云杰，谢珏. 2015. 基于逻辑回归的中文在线评论有效性检测模型[J]. 东南大学学报(自然科学版)，2015，45(3):433-437. （EI）
+<br>
+[18]Lu Li, Qipeng Wang, Baohua Zhao, Xinwei Li, Aihua Zhou, Hanqian Wu*. Pre-Training and Fine-Tuning with Next Sentence Prediction for Multimodal Entity Linking[J]. Electronics 2022, 11(14), 2134.（SCI, JCR 2区）
+<br>
+[19]Wu H, Li X et al. Propaganda Techniques Detection in Low-resource Memes with Multi-modal Prompt Tuning[C]. In Proceedings of ICME-2022. (CCF B类会议) 
+<br>
+[20]Zhang D，Hu Z，Li S，Wu H，Zhu Q，Zhou G. More than Text: Multi-modal Chinese Word Segmentation[C]. In Proceedings of ACL. 2021: 550-557. (CCF A类会议)
+'
 
 # Link this post with a project
 projects: []

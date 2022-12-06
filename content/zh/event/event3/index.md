@@ -1,8 +1,8 @@
 ---
 title: 江苏省软件学术年会
 
-event: Wowchemy Conference
-event_url: https://example.org
+#event: Wowchemy Conference
+#event_url: https://example.org
 
 location: 三江院 315
 # address:

@@ -1,7 +1,7 @@
 ---
 title: 余艾冰院士莅临实验室
 
-event: 学术活动
+# event: 学术活动
 # event_url: https://example.org
 
 location: 三江院 315

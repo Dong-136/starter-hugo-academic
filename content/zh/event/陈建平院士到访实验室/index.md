@@ -1,8 +1,8 @@
 ---
 title: 陈建平院士到访实验室交流
 
-event: Wowchemy Conference
-event_url: https://example.org
+#event: Wowchemy Conference
+#event_url: https://example.org
 
 location: 三江院 315
 # address:

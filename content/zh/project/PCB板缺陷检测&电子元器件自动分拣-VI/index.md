@@ -33,3 +33,4 @@ image:
 该项目主要两个任务：
 （1）对PCB板表面瑕疵实现自动化视觉检测
 （2）对物料盘中的电子元器件实现自动化分拣
+{{< video src="vision_inspection.mp4" controls="yes" >}}

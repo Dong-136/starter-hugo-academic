@@ -1,7 +1,7 @@
 ---
 title: 陈存建博士到访实验室进行学术交流
 
-event: 学术交流
+# event: 学术交流
 # event_url: https://example.org
 
 location: 三江院 315

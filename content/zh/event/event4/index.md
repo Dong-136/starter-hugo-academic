@@ -1,8 +1,8 @@
 ---
 title: 郭孟然毕业论文答辩
 
-event: Wowchemy Conference
-event_url: https://example.org
+#event: Wowchemy Conference
+#event_url: https://example.org
 
 location: 三江院 315
 # address:
